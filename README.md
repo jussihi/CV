@@ -1,2 +1,5 @@
 # CV
-My curriculum vitae
+
+This repository has both my CV source files and the resulting PDF.
+
+Compile the source with XeLaTeX
